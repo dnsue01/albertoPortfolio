@@ -1,4 +1,8 @@
-# Alberto Alcubilla · Director de Fotografía
+# Alberto Alcubilla · Director de fotografía
+
+Portfolio audiovisual con reel, trabajos por categoría y fichas de proyecto. Incluye información de formación, créditos y contacto.
+
+[Visitar la web](https://albertoalcubilla.github.io/portfolio/)
 
 Web estática (HTML + CSS + JS, sin dependencias) lista para GitHub Pages.
 
